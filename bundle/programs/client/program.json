@@ -1,0 +1,65 @@
+{
+  "format": "browser-program-pre1",
+  "page": "app.html",
+  "manifest": [
+    {
+      "path": "7d27ddd0261c8ebe8526a67eb88cec5b91f799a3.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/7d27ddd0261c8ebe8526a67eb88cec5b91f799a3.js",
+      "size": 315882,
+      "hash": "7d27ddd0261c8ebe8526a67eb88cec5b91f799a3"
+    },
+    {
+      "path": "7ded9193b7257ee3c459b31b63b30d667b32c170.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/7ded9193b7257ee3c459b31b63b30d667b32c170.css",
+      "size": 123025,
+      "hash": "7ded9193b7257ee3c459b31b63b30d667b32c170"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "app/giggle.mp3",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/giggle.mp3",
+      "size": 271488,
+      "hash": "cf52f6ad1f4b7b0d2f44905d497a1a1ecab9f620"
+    },
+    {
+      "path": "app/smiley-laugh.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/smiley-laugh.png",
+      "size": 119925,
+      "hash": "89e34be8909e60ab9bdc94db37dbb7d7a9077c23"
+    },
+    {
+      "path": "app.html",
+      "where": "internal",
+      "hash": "b29c1eabe99160e36e8ccd6e97dad73f3ebe61d5"
+    }
+  ]
+}
